@@ -1,0 +1,2 @@
+# PolitecnicoSanJC
+Pagina institucional
