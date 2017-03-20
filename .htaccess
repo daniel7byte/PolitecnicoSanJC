@@ -1,0 +1,6 @@
+ErrorDocument 404 http://www.politecnicosanjc.hol.es/404.php
+ErrorDocument 401 http://www.politecnicosanjc.hol.es/404.php
+ErrorDocument 403 http://www.politecnicosanjc.hol.es/404.php
+ErrorDocument 500 http://www.politecnicosanjc.hol.es/501.php
+ErrorDocument 501 http://www.politecnicosanjc.hol.es/501.php
+ErrorDocument 400 http://www.politecnicosanjc.hol.es/404.php
